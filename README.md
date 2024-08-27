@@ -1,4 +1,4 @@
-<h1>Introduction to Phishing</h1>
+<h1>Understanding Phishing</h1>
 
 <h2>Phishing</h2>
 Phishing is the act of attempting to obtain sensitive information from individuals by using social engineering tactics over various communication platforms such as email, SMS, phone calls, and Internet.
